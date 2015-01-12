@@ -121,5 +121,5 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   #
   #   chef.validation_client_name = "ORGNAME-validator"
   
-  config.vbguest.auto_update = false
+  #config.vbguest.auto_update = false
 end
